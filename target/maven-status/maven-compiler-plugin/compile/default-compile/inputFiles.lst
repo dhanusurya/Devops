@@ -1,0 +1,13 @@
+/devops-workplace/src/main/java/com/devopsdemo/utilities/LoggerStackTraceUtil.java
+/devops-workplace/src/main/java/com/devopsdemo/tutorial/addressbook/AddressbookUI.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/StringUtilities.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/GenericComparator.java
+/devops-workplace/src/main/java/com/devopsdemo/helper/GenericResourceBundle.java
+/devops-workplace/src/main/java/com/devopsdemo/tutorial/addressbook/backend/Contact.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/PropertyLoader.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/HexAsciiConvertor.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/CaseInsensitiveComparator.java
+/devops-workplace/src/main/java/com/devopsdemo/tutorial/addressbook/ContactForm.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/PrepareTargetMethod.java
+/devops-workplace/src/main/java/com/devopsdemo/utilities/PropertyHelper.java
+/devops-workplace/src/main/java/com/devopsdemo/tutorial/addressbook/backend/ContactService.java
