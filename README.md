@@ -6,3 +6,4 @@ testing
 QA 
 this is cicd arch
 this is cicd arch
+changing editor vi to emacs
